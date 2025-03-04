@@ -1,5 +1,5 @@
 -- This file was made by vvs. Sharing without mentioning credits to the rightful owner is strictly prohibited
--- v2 Premium Edition
+-- v2.0.1
 
 
 ░█──░█ ▀█▀ ░█▀▀█ ▀▀█▀▀ ░█▀▀▀ ▀▄░▄▀ 　 　 　 ░█──░█ █▀█ 
