@@ -7,4 +7,4 @@
 ──▀▄▀─ ▄█▄ ░█─░█ ─░█── ░█▄▄▄ ▄▀░▀▄ 　 　 　 ──▀▄▀─ █▄▄
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/officialvistex/Virtex-V2-Blade-Ball-2025/refs/heads/main/Blade%20Ball%20Virtex%20Hub%20V2.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/officialvistex/Virtex-V2-Blade-Ball-2025/refs/heads/main/Blade%20Ball%20Virtex%20Hub%20V2.lua"))
