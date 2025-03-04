@@ -1,5 +1,5 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{
-Title = "Virtex V2",
+Title = "Vistex V2",
 Text = "Silent & Deadly", 
 
 Duration = 5
